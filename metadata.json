@@ -1,0 +1,8 @@
+{
+  "name": "Marginalia",
+  "description": "An editorial blogging platform featuring live paragraph margin annotations, threaded stance-tagged comments, audio narration, and revision history diffs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
